@@ -1,0 +1,3 @@
+[submodule "qt-creator"]
+	path = qt-creator
+	url = https://code.qt.io/qt-creator/qt-creator.git
