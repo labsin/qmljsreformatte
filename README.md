@@ -4,9 +4,11 @@ This is a CLI wrapper of the reformatter borrowed from the QtCreator project.
 It makes it possible to do shell bashing.
 
 ## Get the source
+
+Will also init the qt-creator submodule.
  
 ```
-git clone --recursive https://github.com/labsin/qmljsreformatter
+git clone --recursive https://github.com/labsin/qmljsreformatte
 ```
 
 # Build
